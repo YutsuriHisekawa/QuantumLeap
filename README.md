@@ -1,1 +1,3 @@
 # QuantumLeap
+
+GIT untuk magang , 
